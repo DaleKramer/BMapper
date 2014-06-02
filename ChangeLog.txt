@@ -1,0 +1,3 @@
+v2.01-DRAFT
+1. Fixed SoundOptions.frm so text fits in their containers -K1 done 6/2/2014
+2. Capture Map dialog issue -TA working on
